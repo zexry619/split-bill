@@ -264,5 +264,31 @@
             }
         });
     </script>
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        const diskonPersen = document.getElementById('diskon_persen');
+        const diskonRupiah = document.getElementById('diskon_rupiah');
+
+        function handleDiskonInput() {
+            if (diskonPersen.value.trim() !== '') {
+                diskonRupiah.disabled = true;
+                diskonRupiah.value = ''; // Reset value if disabled
+            } else {
+                diskonRupiah.disabled = false;
+            }
+
+            if (diskonRupiah.value.trim() !== '') {
+                diskonPersen.disabled = true;
+                diskonPersen.value = ''; // Reset value if disabled
+            } else {
+                diskonPersen.disabled = false;
+            }
+        }
+
+        // Event listeners for both inputs
+        diskonPersen.addEventListener('input', handleDiskonInput);
+        diskonRupiah.addEventListener('input', handleDiskonInput);
+    });
+</script>
 </body>
 </html>
