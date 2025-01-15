@@ -1,4 +1,4 @@
-# Split Bill Calculator
+![image](https://github.com/user-attachments/assets/0662b4bc-c8e1-4e47-a462-46a0ba53fc78)# Split Bill Calculator
 
 The Split Bill Calculator is a web-based application designed to help you accurately split costs within a group. It is ideal for scenarios like sharing meal expenses, trip costs, or other group activities.
 
@@ -19,8 +19,8 @@ Follow these steps to run this project locally:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/username/repo-name.git
-   cd repo-name
+   git clone https://github.com/zexry619/split-bill.git
+   cd split-bill
    ```
 
 2. **Ensure Local Server is Running**
