@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0662b4bc-c8e1-4e47-a462-46a0ba53fc78)# Split Bill Calculator
+# Split Bill Calculator
 
 The Split Bill Calculator is a web-based application designed to help you accurately split costs within a group. It is ideal for scenarios like sharing meal expenses, trip costs, or other group activities.
 
