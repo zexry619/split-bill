@@ -57,8 +57,6 @@ repo-name/
 
 ![image](https://github.com/user-attachments/assets/1658c85d-0864-47ac-8b07-624464e0bac1)
 
-### Participant Details Page
-![Participant Details](https://via.placeholder.com/800x400?text=Participant+Details+Page)
 
 
 ## License
